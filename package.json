@@ -1,0 +1,24 @@
+{
+  "name": "tap-exec-sync-failures",
+  "version": "1.0.0",
+  "description": "A reproduction for failures when .execSync is used in tap 15",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^15.1.5"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/tap-exec-sync-failures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/tap-exec-sync-failures/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/tap-exec-sync-failures#readme"
+}
